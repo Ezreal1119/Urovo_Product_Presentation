@@ -2,26 +2,46 @@
   {
     "title": "DT610-Present-202606",
     "product": "DT610",
-    "src": "https://temp.patrick-shenzhen.org/tools/DT610-Present-202606.mp4"
+    "src": "https://temp.patrick-shenzhen.org/tools/DT610-Present-202606.mp4",
+    "pages": [
+      1,
+      2
+    ]
   },
   {
     "title": "DT610_Pro-Present-202606",
     "product": "DT610 Pro",
-    "src": "https://temp.patrick-shenzhen.org/tools/DT610_Pro-Present-202606.mp4"
+    "src": "https://temp.patrick-shenzhen.org/tools/DT610_Pro-Present-202606.mp4",
+    "pages": [
+      1,
+      2
+    ]
   },
   {
     "title": "DT610+RFG91-Present-202606",
     "product": "DT610 + RFG91",
-    "src": "https://temp.patrick-shenzhen.org/tools/DT610%2BRFG91-Present-202606.mp4"
+    "src": "https://temp.patrick-shenzhen.org/tools/DT610%2BRFG91-Present-202606.mp4",
+    "pages": [
+      1,
+      2
+    ]
   },
   {
     "title": "DT610_OCR-Present-202606",
     "product": "DT610",
-    "src": "https://temp.patrick-shenzhen.org/tools/DT610_OCR-Present-202606.mp4"
+    "src": "https://temp.patrick-shenzhen.org/tools/DT610_OCR-Present-202606.mp4",
+    "pages": [
+      1,
+      2
+    ]
   },
   {
     "title": "DT610Pro_3D_Dimension_Measure-Present-202606",
     "product": "DT610 Pro",
-    "src": "https://temp.patrick-shenzhen.org/tools/DT610Pro_3D_Dimension_Measure-Present-202606.mov"
+    "src": "https://temp.patrick-shenzhen.org/tools/DT610Pro_3D_Dimension_Measure-Present-202606.mov",
+    "pages": [
+      1,
+      2
+    ]
   }
 ]
