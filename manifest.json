@@ -1,0 +1,503 @@
+{
+  "title": "UROVO Complete Product Presentation",
+  "generated": "2026-10-14",
+  "slide_count": 21,
+  "pages": [
+    {
+      "deck": "dt610",
+      "product": "DT610",
+      "title": "DT610 Lightweight RFID Mobile Computer",
+      "file": "products/DT610_Product_Presentation.html",
+      "local": 0,
+      "version": "a3098b1885857503"
+    },
+    {
+      "deck": "dt610",
+      "product": "DT610",
+      "title": "Workflows & competitive advantages",
+      "file": "products/DT610_Product_Presentation.html",
+      "local": 1,
+      "version": "a3098b1885857503"
+    },
+    {
+      "deck": "dt630",
+      "product": "DT630",
+      "title": "DT630 Enterprise Smartphone",
+      "file": "products/DT630_Product_Presentation.html",
+      "local": 0,
+      "version": "2030dd601c560919"
+    },
+    {
+      "deck": "dt630",
+      "product": "DT630",
+      "title": "One device, from stockroom to doorstep",
+      "file": "products/DT630_Product_Presentation.html",
+      "local": 1,
+      "version": "2030dd601c560919"
+    },
+    {
+      "deck": "dt66",
+      "product": "DT66",
+      "title": "DT66 5G Rugged Mobile Computer",
+      "file": "products/DT66_Product_Presentation.html",
+      "local": 0,
+      "version": "84099491cc763a1e"
+    },
+    {
+      "deck": "dt66",
+      "product": "DT66",
+      "title": "Ready for the floor. Connected in the field.",
+      "file": "products/DT66_Product_Presentation.html",
+      "local": 1,
+      "version": "84099491cc763a1e"
+    },
+    {
+      "deck": "dt50-family",
+      "product": "DT50S",
+      "title": "DT50S Rugged Mobile Computer",
+      "file": "products/DT50_Family_Product_Presentation_5_Pages.html",
+      "local": 0,
+      "version": "52b63822934294e6"
+    },
+    {
+      "deck": "dt50-family",
+      "product": "DT50S",
+      "title": "Retail, warehouse and production workflows",
+      "file": "products/DT50_Family_Product_Presentation_5_Pages.html",
+      "local": 1,
+      "version": "52b63822934294e6"
+    },
+    {
+      "deck": "dt50-family",
+      "product": "DT50 Pro",
+      "title": "DT50 Pro The enhanced platform",
+      "file": "products/DT50_Family_Product_Presentation_5_Pages.html",
+      "local": 2,
+      "version": "52b63822934294e6"
+    },
+    {
+      "deck": "dt50-family",
+      "product": "DT50P",
+      "title": "DT50P Long-range RFID inventory",
+      "file": "products/DT50_Family_Product_Presentation_5_Pages.html",
+      "local": 3,
+      "version": "52b63822934294e6"
+    },
+    {
+      "deck": "dt50-family",
+      "product": "DT50D",
+      "title": "DT50D RFID for nearby verification",
+      "file": "products/DT50_Family_Product_Presentation_5_Pages.html",
+      "local": 4,
+      "version": "52b63822934294e6"
+    },
+    {
+      "deck": "rt40s",
+      "product": "RT40S",
+      "title": "RT40S Keypad Warehouse Computer",
+      "file": "products/RT40S_Product_Presentation.html",
+      "local": 0,
+      "version": "8b62a48483593826"
+    },
+    {
+      "deck": "rt40s",
+      "product": "RT40S",
+      "title": "Warehouse workflows & competitive fit",
+      "file": "products/RT40S_Product_Presentation.html",
+      "local": 1,
+      "version": "8b62a48483593826"
+    },
+    {
+      "deck": "sp35",
+      "product": "SP35",
+      "title": "SP35 Personal Shopper",
+      "file": "products/SP35_Product_Presentation.html",
+      "local": 0,
+      "version": "d812b3678f0718b7"
+    },
+    {
+      "deck": "sp35",
+      "product": "SP35",
+      "title": "Self-shopping, from entry to checkout",
+      "file": "products/SP35_Product_Presentation.html",
+      "local": 1,
+      "version": "d812b3678f0718b7"
+    },
+    {
+      "deck": "upad",
+      "product": "UPad",
+      "title": "UPad Smart Commercial Tablet",
+      "file": "products/UPad_Product_Presentation.html",
+      "local": 0,
+      "version": "c3b5090a545097d1"
+    },
+    {
+      "deck": "upad",
+      "product": "UPad",
+      "title": "Counter service and mobile operations",
+      "file": "products/UPad_Product_Presentation.html",
+      "local": 1,
+      "version": "c3b5090a545097d1"
+    },
+    {
+      "deck": "k388pro",
+      "product": "K388 Pro",
+      "title": "K388 Pro Mobile Labeling Terminal",
+      "file": "products/K388_Pro_Product_Presentation.html",
+      "local": 0,
+      "version": "84e75228f0b86829"
+    },
+    {
+      "deck": "k388pro",
+      "product": "K388 Pro",
+      "title": "Two label widths for work beside the goods",
+      "file": "products/K388_Pro_Product_Presentation.html",
+      "local": 1,
+      "version": "84e75228f0b86829"
+    },
+    {
+      "deck": "mobile-printers",
+      "product": "K329 + K389",
+      "title": "Print where the work happens",
+      "file": "products/K329_K389_Mobile_Printers.html",
+      "local": 0,
+      "version": "50d985f6342aedfa"
+    },
+    {
+      "deck": "esl",
+      "product": "ESL",
+      "title": "ESL Electronic Shelf Labels",
+      "file": "products/ESL_Product_Overview.html",
+      "local": 0,
+      "version": "d718fd36867b735f"
+    }
+  ],
+  "decks": [
+    {
+      "id": "dt610",
+      "name": "DT610",
+      "file": "products/DT610_Product_Presentation.html",
+      "source": "/Users/patrickxu/patrick-agent/workspace/dt610-html-presentation-20261013/output/DT610_Product_Presentation.html",
+      "source_sha256": "a3098b1885857503ed721963d7297fd5cc26a5e7cb8099ef559746f719029330",
+      "in_combined": true,
+      "slides": [
+        "DT610 Lightweight RFID Mobile Computer",
+        "Workflows & competitive advantages"
+      ],
+      "bundle_sha256": "e3edcdd7605f780b4b3272b9e1d10d3711195cf75d5b4d0ecf87441bfc5df83e"
+    },
+    {
+      "id": "dt630",
+      "name": "DT630",
+      "file": "products/DT630_Product_Presentation.html",
+      "source": "/Users/patrickxu/patrick-agent/workspace/dt630-html-presentation-20261013/output/DT630_Product_Presentation.html",
+      "source_sha256": "2030dd601c560919297140e743155764974077130c3b730c9b776cea98a18c42",
+      "in_combined": true,
+      "slides": [
+        "DT630 Enterprise Smartphone",
+        "One device, from stockroom to doorstep"
+      ],
+      "bundle_sha256": "815d51abe3220ccebb6f41c8ba74f4581a865b2e77843724d198c3eca79c28a1"
+    },
+    {
+      "id": "dt66",
+      "name": "DT66",
+      "file": "products/DT66_Product_Presentation.html",
+      "source": "/Users/patrickxu/patrick-agent/workspace/dt66-html-presentation-20261013/output/DT66_Product_Presentation.html",
+      "source_sha256": "84099491cc763a1e2879d42cc005ef4fc08969267b8565b0218e08247467bcfd",
+      "in_combined": true,
+      "slides": [
+        "DT66 5G Rugged Mobile Computer",
+        "Ready for the floor. Connected in the field."
+      ],
+      "bundle_sha256": "c3472e434070bca09181510e9e6268f04c8990cade987ae276c26aaa58257d53"
+    },
+    {
+      "id": "dt50-family",
+      "name": "DT50 Series",
+      "file": "products/DT50_Family_Product_Presentation_5_Pages.html",
+      "source": "/Users/patrickxu/patrick-agent/workspace/dt50-family-html-presentation-20261013/output/DT50_Family_Product_Presentation_5_Pages.html",
+      "source_sha256": "52b63822934294e6ae05e6a7e5bea749d5bd8e85e724838d929993c70aa368b7",
+      "in_combined": true,
+      "slides": [
+        "DT50S Rugged Mobile Computer",
+        "Retail, warehouse and production workflows",
+        "DT50 Pro The enhanced platform",
+        "DT50P Long-range RFID inventory",
+        "DT50D RFID for nearby verification"
+      ],
+      "bundle_sha256": "3bf084f3d6925d07b0b8479a5a530b38cb6a2db492ff2f19b0eb9ba6b8ff18e8"
+    },
+    {
+      "id": "rt40s",
+      "name": "RT40S",
+      "file": "products/RT40S_Product_Presentation.html",
+      "source": "/Users/patrickxu/patrick-agent/workspace/rt40s-html-presentation-20261013/output/RT40S_Product_Presentation.html",
+      "source_sha256": "8b62a48483593826cfeffe6401006162a88904a009fea9fdd1b75a78efdfadd7",
+      "in_combined": true,
+      "slides": [
+        "RT40S Keypad Warehouse Computer",
+        "Warehouse workflows & competitive fit"
+      ],
+      "bundle_sha256": "2a7dc5ce9b3cb0fa631c5463c963c7593aea6b2534b354d78058075bf1f5f497"
+    },
+    {
+      "id": "sp35",
+      "name": "SP35",
+      "file": "products/SP35_Product_Presentation.html",
+      "source": "/Users/patrickxu/patrick-agent/workspace/sp35-html-presentation-20261013/output/SP35_Product_Presentation.html",
+      "source_sha256": "d812b3678f0718b7a70c88050efa33adf457b675c5e923b177e074a1fa62c756",
+      "in_combined": true,
+      "slides": [
+        "SP35 Personal Shopper",
+        "Self-shopping, from entry to checkout"
+      ],
+      "bundle_sha256": "0e399b5515b74e5dbdb03d95043d6518018838651d014fca0bce94b90c4ca8b4"
+    },
+    {
+      "id": "upad",
+      "name": "UPad",
+      "file": "products/UPad_Product_Presentation.html",
+      "source": "/Users/patrickxu/patrick-agent/workspace/upad-html-presentation-20261013/output/UPad_Product_Presentation.html",
+      "source_sha256": "c3b5090a545097d103505a749f71592f8184029f9a410c2f41355c9f82e5f290",
+      "in_combined": true,
+      "slides": [
+        "UPad Smart Commercial Tablet",
+        "Counter service and mobile operations"
+      ],
+      "bundle_sha256": "2d09de4d632a1ace27b51ad85ff7ba886f21d4df9838dbee590750241af5c73d"
+    },
+    {
+      "id": "k388pro",
+      "name": "K388 Pro",
+      "file": "products/K388_Pro_Product_Presentation.html",
+      "source": "/Users/patrickxu/patrick-agent/workspace/k388pro-html-presentation-20261013/output/K388_Pro_Product_Presentation.html",
+      "source_sha256": "84e75228f0b86829d4654aa06381bfd3d9fdd90a297ce1ba1a1f8e47fc9df4e7",
+      "in_combined": true,
+      "slides": [
+        "K388 Pro Mobile Labeling Terminal",
+        "Two label widths for work beside the goods"
+      ],
+      "bundle_sha256": "a9859e42ba1c23af13d7393f055089b878367ebf11e7175d6cd1efdfe3f7208b"
+    },
+    {
+      "id": "mobile-printers",
+      "name": "K329 + K389",
+      "file": "products/K329_K389_Mobile_Printers.html",
+      "source": "/Users/patrickxu/patrick-agent/workspace/mobile-printers-html-presentation-20261013/output/K329_K389_Mobile_Printers.html",
+      "source_sha256": "50d985f6342aedfa1da6e22ce8698373d74ba45e12496ce5cce741fbd2a00770",
+      "in_combined": true,
+      "slides": [
+        "Print where the work happens"
+      ],
+      "bundle_sha256": "e6288a46e6c2cb8355c656d0f10b3f6cf19a9e6e3fb32361a69d159b0657d9f0"
+    },
+    {
+      "id": "esl",
+      "name": "ESL",
+      "file": "products/ESL_Product_Overview.html",
+      "source": "/Users/patrickxu/patrick-agent/workspace/esl-html-presentation-20261013/output/ESL_Product_Overview.html",
+      "source_sha256": "d718fd36867b735f0bc75624cf37cd040771317c8b103c90b76a7beac2e47b3e",
+      "in_combined": true,
+      "slides": [
+        "ESL Electronic Shelf Labels"
+      ],
+      "bundle_sha256": "cca888f7dfcced29ab924ecf103d32adde99e50acfb3e1198ace95c6f903669e"
+    },
+    {
+      "id": "dt50s",
+      "name": "DT50S (standalone)",
+      "file": "products/DT50S_Product_Presentation.html",
+      "source": "/Users/patrickxu/patrick-agent/workspace/dt50s-html-presentation-20261013/output/DT50S_Product_Presentation.html",
+      "source_sha256": "98807cbea268d27f430943d91b32a3a428da5ffb46880d581d075c5d6f66231e",
+      "in_combined": false,
+      "slides": [
+        "DT50S Rugged Mobile Computer",
+        "Retail, warehouse and production workflows"
+      ],
+      "bundle_sha256": "6b3b04ea4349abebdc63be01e5fbe4ea88203c75ab9262023438b84eea3de020"
+    }
+  ],
+  "assets": {
+    "d64c74647b3b0aaf3264.png": {
+      "sha256": "d64c74647b3b0aaf3264c0ff3a7982b9ca1c984651304fe3a298ff3146b8b1b9",
+      "bytes": 1565887,
+      "mime": "image/png"
+    },
+    "dc835e54b0e1c026bd3c.png": {
+      "sha256": "dc835e54b0e1c026bd3c74080db54405b31a466b0566de3d59319183b12a00a7",
+      "bytes": 115831,
+      "mime": "image/png"
+    },
+    "5919e223ca55ada2424c.png": {
+      "sha256": "5919e223ca55ada2424c34cdb4981a68a8e96041cc20dacf8ecda058a095407f",
+      "bytes": 1922098,
+      "mime": "image/png"
+    },
+    "694379268a02b1d5ff66.png": {
+      "sha256": "694379268a02b1d5ff662df7b4412de629a5fb0e489523a8f93f604a1445c502",
+      "bytes": 1919835,
+      "mime": "image/png"
+    },
+    "78b5cfb9c69398c501f2.png": {
+      "sha256": "78b5cfb9c69398c501f2e96bdebfe0c7ec722186b48a040c1d9c5b930fc50859",
+      "bytes": 9321712,
+      "mime": "image/png"
+    },
+    "0977af79730793d07503.png": {
+      "sha256": "0977af79730793d07503c2444e841d064afadb2ccc2ccbb06c83c5b63122994b",
+      "bytes": 7165077,
+      "mime": "image/png"
+    },
+    "cbe265c3538c7b885b54.png": {
+      "sha256": "cbe265c3538c7b885b54ef53b854e861077b2e0d9fd21f47d49db7e7173b9261",
+      "bytes": 1947972,
+      "mime": "image/png"
+    },
+    "140cf61fd9b6ef9adf35.png": {
+      "sha256": "140cf61fd9b6ef9adf3549405d896af769c2c7912460b78ce1d4d48009441ec1",
+      "bytes": 2920073,
+      "mime": "image/png"
+    },
+    "8a1bada8f5e23a2e5f6c.png": {
+      "sha256": "8a1bada8f5e23a2e5f6c6fc0c693531419ac62cbd75fc9aaaa493bc3c3b10fbd",
+      "bytes": 4505167,
+      "mime": "image/png"
+    },
+    "8581bda632aaf294bba1.png": {
+      "sha256": "8581bda632aaf294bba1c7bd148e5d39643fc1f6f8bae6ac844a3612875fab86",
+      "bytes": 1890907,
+      "mime": "image/png"
+    },
+    "ac63df44845e83f62323.png": {
+      "sha256": "ac63df44845e83f62323c043c03dfe509aeddf5f34c8763f072b28644e6ce91a",
+      "bytes": 392352,
+      "mime": "image/png"
+    },
+    "a273534179097b86e8b6.png": {
+      "sha256": "a273534179097b86e8b64282f503188f2f0fb6e04da0a587437f771be0760a5b",
+      "bytes": 1878853,
+      "mime": "image/png"
+    },
+    "b2ce6c4e89bd8e4274c3.png": {
+      "sha256": "b2ce6c4e89bd8e4274c30b4d4c8452c2ef4689de19ff8903e5dce54d9c5b6d9c",
+      "bytes": 2067596,
+      "mime": "image/png"
+    },
+    "8d8c367213712df3d87c.png": {
+      "sha256": "8d8c367213712df3d87c5c2609568026c789a236e7e913b2b58e67fd7f09adbe",
+      "bytes": 3346941,
+      "mime": "image/png"
+    },
+    "4544ad551b123bc831ce.png": {
+      "sha256": "4544ad551b123bc831ce289bf056c7ef45b53cf1808ab30714afdbbc3bd80713",
+      "bytes": 2348660,
+      "mime": "image/png"
+    },
+    "5dd0f15a0ab1612b46eb.png": {
+      "sha256": "5dd0f15a0ab1612b46eb02635b56454af669ce0d1affbd70efb306ec0c357bf8",
+      "bytes": 2219982,
+      "mime": "image/png"
+    },
+    "9cf7c8ae771f10c519b6.png": {
+      "sha256": "9cf7c8ae771f10c519b69c7d6e6d44cc8cbf8be4de6e47912f85496bfd72ff47",
+      "bytes": 568621,
+      "mime": "image/png"
+    },
+    "358725f696f696ec4118.png": {
+      "sha256": "358725f696f696ec41185bb880df1e4a9bf47e558a4e51f18b8d46105247cb65",
+      "bytes": 1827566,
+      "mime": "image/png"
+    },
+    "4ce7e229e99afbafa6cd.png": {
+      "sha256": "4ce7e229e99afbafa6cdcedb7b04e937cb8fce32c45083db12b3c584958d3cc5",
+      "bytes": 2111095,
+      "mime": "image/png"
+    },
+    "b1987f99f8b483a8ede3.png": {
+      "sha256": "b1987f99f8b483a8ede3aab1d03aada946d8a77d503a73039da113057573e56f",
+      "bytes": 196530,
+      "mime": "image/png"
+    },
+    "28b423d6c057ccfdd1e4.png": {
+      "sha256": "28b423d6c057ccfdd1e4069e371492219c6a3177c592e4cfdeb1bcea219f3e24",
+      "bytes": 7077956,
+      "mime": "image/png"
+    },
+    "a8a41d299d30c450ecf0.png": {
+      "sha256": "a8a41d299d30c450ecf085a66d2641596c3f649954cf8f93953a95ffee2da425",
+      "bytes": 6194492,
+      "mime": "image/png"
+    },
+    "78963475fbe683e2d85c.png": {
+      "sha256": "78963475fbe683e2d85cfaffe1ce33c415d5f8ae1108abf56f6a5942c3313c6a",
+      "bytes": 2491378,
+      "mime": "image/png"
+    },
+    "a3296e1cd9fd01b62a38.png": {
+      "sha256": "a3296e1cd9fd01b62a384d40be5c7208a2275cb9a7f6bf8de801564b2863ad96",
+      "bytes": 3989682,
+      "mime": "image/png"
+    },
+    "4151a47e035638cb05ae.png": {
+      "sha256": "4151a47e035638cb05ae0bdcfdaf85808cec1c4afa3e25d6949a180fca97f833",
+      "bytes": 3264685,
+      "mime": "image/png"
+    },
+    "cfb0912efaaf25b78478.png": {
+      "sha256": "cfb0912efaaf25b784784a535bb34e72db3f47b524ce26d828fc87f4a22eee5c",
+      "bytes": 1490653,
+      "mime": "image/png"
+    },
+    "01f64f8e2e2618ca977c.png": {
+      "sha256": "01f64f8e2e2618ca977c0cd7b8c4abae4f8cefafe20a0f69fd295cc56460c94f",
+      "bytes": 1435907,
+      "mime": "image/png"
+    },
+    "a784f16ab9b478f75b79.png": {
+      "sha256": "a784f16ab9b478f75b79a5b1964fcb46df9f13062b128ac6aef49c354a26dee8",
+      "bytes": 2563028,
+      "mime": "image/png"
+    },
+    "89ffcbab2e095f3e05aa.png": {
+      "sha256": "89ffcbab2e095f3e05aaf90873dd9640862a130d7ebaacdb0c9ff4d8f21d416a",
+      "bytes": 1959797,
+      "mime": "image/png"
+    },
+    "a15f408c43ffbf0f38f8.png": {
+      "sha256": "a15f408c43ffbf0f38f84857fd18b2dac98db0c98c5a3743ae5d6f0e01822c65",
+      "bytes": 3388757,
+      "mime": "image/png"
+    },
+    "2bef02180d01880f5469.jpg": {
+      "sha256": "2bef02180d01880f5469966f56021ccc16d3f8e6697e67bad87b09b4c1d6b206",
+      "bytes": 2045311,
+      "mime": "image/jpeg"
+    },
+    "eade3864adea1d471d46.png": {
+      "sha256": "eade3864adea1d471d465d2c46dd262a44708b3fe22b032108d88f015ceb7d1e",
+      "bytes": 2120962,
+      "mime": "image/png"
+    },
+    "1574470dac6bd966427d.png": {
+      "sha256": "1574470dac6bd966427da24734723478fb32e9cbb8599df7ee2e8bcc6cf7f9a9",
+      "bytes": 2266520,
+      "mime": "image/png"
+    },
+    "75883fd733474dff13ff.png": {
+      "sha256": "75883fd733474dff13ff42ae4a3b31abc710f31c58e16a0e41d3abdd33857c19",
+      "bytes": 8915562,
+      "mime": "image/png"
+    },
+    "6849209c963b8fccd3d1.png": {
+      "sha256": "6849209c963b8fccd3d1c5b9ea81c8fbc2b565002d2ce2cf5d98f1ce54fa8bbd",
+      "bytes": 1494999,
+      "mime": "image/png"
+    },
+    "d64d3fe15a7d658881e8.png": {
+      "sha256": "d64d3fe15a7d658881e81fbe9e89da1abf13e7357373b605f5d2b08c2f1fc204",
+      "bytes": 2650504,
+      "mime": "image/png"
+    }
+  }
+}
