@@ -415,7 +415,7 @@
     "product": "K329 + K389",
     "src": "https://temp.patrick-shenzhen.org/tools/K329-Present-202606.mp4",
     "pages": [
-      20
+      26
     ]
   },
   {
@@ -423,7 +423,7 @@
     "product": "K329 + K389",
     "src": "https://temp.patrick-shenzhen.org/tools/K329_Unboxing-Present-202606.mp4",
     "pages": [
-      20
+      26
     ]
   },
   {
@@ -431,7 +431,18 @@
     "product": "ESL",
     "src": "https://temp.patrick-shenzhen.org/tools/esl-intro-0825-2k.mov",
     "pages": [
-      21
+      27
+    ]
+  },
+  {
+    "id": "gs2208d-luckin",
+    "title": "Luckin coffee · label printing",
+    "product": "GS-2208D · customer-supplied video",
+    "src": "assets/gs2208d-luckin-demo.mp4",
+    "poster": "assets/gs2208d-luckin-poster.jpg",
+    "pages": [
+      24,
+      25
     ]
   }
 ]

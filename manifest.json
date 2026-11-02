@@ -1,7 +1,7 @@
 {
   "title": "UROVO Complete Product Presentation",
   "generated": "2026-10-14",
-  "slide_count": 21,
+  "slide_count": 27,
   "pages": [
     {
       "deck": "dt610",
@@ -156,6 +156,58 @@
       "version": "84e75228f0b86829"
     },
     {
+      "deck": "i9600-mini",
+      "product": "i9600 Mini",
+      "title": "i9600 Mini Smart Mobile Terminal",
+      "file": "products/i9600_Mini_Product_Presentation.html",
+      "local": 0,
+      "version": "0807e7c40967aabf"
+    },
+    {
+      "deck": "i9600-mini",
+      "product": "i9600 Mini",
+      "title": "Store operations, in hand",
+      "file": "products/i9600_Mini_Product_Presentation.html",
+      "local": 1,
+      "version": "0807e7c40967aabf"
+    },
+    {
+      "deck": "d81r",
+      "product": "D81R Series",
+      "title": "D81R Series Desktop UHF RFID Printer",
+      "file": "products/D81R_Product_Presentation.html",
+      "local": 0,
+      "version": "a5ff219a21d0229b",
+      "keywords": "D812R D813R"
+    },
+    {
+      "deck": "d81r",
+      "product": "D81R Series",
+      "title": "RFID labels, ready for the next step",
+      "file": "products/D81R_Product_Presentation.html",
+      "local": 1,
+      "version": "a5ff219a21d0229b",
+      "keywords": "D812R D813R"
+    },
+    {
+      "deck": "gs2208d",
+      "product": "GS-2208D",
+      "title": "GS-2208D 2-Inch Desktop Label Printer",
+      "file": "products/GS2208D_Product_Presentation.html",
+      "local": 0,
+      "version": "2ffb01e3142e0fae",
+      "keywords": "GAINSCHA Gainscha 盖奇 Luckin coffee 瑞幸 咖啡 2-inch printer"
+    },
+    {
+      "deck": "gs2208d",
+      "product": "GS-2208D",
+      "title": "From order to labelled cup",
+      "file": "products/GS2208D_Product_Presentation.html",
+      "local": 1,
+      "version": "2ffb01e3142e0fae",
+      "keywords": "GAINSCHA Gainscha 盖奇 Luckin coffee 瑞幸 咖啡 2-inch printer"
+    },
+    {
       "deck": "mobile-printers",
       "product": "K329 + K389",
       "title": "Print where the work happens",
@@ -279,6 +331,48 @@
         "Two label widths for work beside the goods"
       ],
       "bundle_sha256": "a9859e42ba1c23af13d7393f055089b878367ebf11e7175d6cd1efdfe3f7208b"
+    },
+    {
+      "id": "i9600-mini",
+      "name": "i9600 Mini",
+      "file": "products/i9600_Mini_Product_Presentation.html",
+      "source": "/Users/patrickxu/Urovo_Product_Presentation/products/i9600_Mini_Product_Presentation.html",
+      "source_sha256": "0807e7c40967aabfda216ede3754a269eda1ac7c70bb34ebe6fa643d635f1011",
+      "in_combined": true,
+      "slides": [
+        "i9600 Mini Smart Mobile Terminal",
+        "Store operations, in hand"
+      ],
+      "bundle_sha256": "0807e7c40967aabfda216ede3754a269eda1ac7c70bb34ebe6fa643d635f1011",
+      "source_spec": "/Users/patrickxu/Downloads/debuglogger/i9600 Mini  Smart Mobile Terminal (EN)-SPEC-20260908.docx"
+    },
+    {
+      "id": "d81r",
+      "name": "D81R Series",
+      "file": "products/D81R_Product_Presentation.html",
+      "source": "/Users/patrickxu/Urovo_Product_Presentation/products/D81R_Product_Presentation.html",
+      "source_sha256": "a5ff219a21d0229bf442d3b92ce478611827b83ff7857985e5e16a0f8178ba5e",
+      "in_combined": true,
+      "slides": [
+        "D81R Series Desktop UHF RFID Printer",
+        "RFID labels, ready for the next step"
+      ],
+      "bundle_sha256": "a5ff219a21d0229bf442d3b92ce478611827b83ff7857985e5e16a0f8178ba5e",
+      "source_spec": "/Users/patrickxu/patrick-agent/skills/urovo-product-expert/D81R Series/specs/default_202610081413/D81R Series(EN)-SPEC-20250114.pdf"
+    },
+    {
+      "id": "gs2208d",
+      "name": "GS-2208D",
+      "file": "products/GS2208D_Product_Presentation.html",
+      "source": "/Users/patrickxu/Urovo_Product_Presentation/products/GS2208D_Product_Presentation.html",
+      "source_sha256": "2ffb01e3142e0faef6fb0496d3bb3562e1720c1bd3d0ca8d6c8eb7987b8e6fab",
+      "in_combined": true,
+      "slides": [
+        "GS-2208D 2-Inch Desktop Label Printer",
+        "From order to labelled cup"
+      ],
+      "bundle_sha256": "2ffb01e3142e0faef6fb0496d3bb3562e1720c1bd3d0ca8d6c8eb7987b8e6fab",
+      "source_spec": "/Volumes/SSD1T/Downloads/debuglogger/2 Inch Desktop Label Printer GS-2208D.pdf"
     },
     {
       "id": "mobile-printers",
@@ -498,6 +592,47 @@
       "sha256": "d64d3fe15a7d658881e81fbe9e89da1abf13e7357373b605f5d2b08c2f1fc204",
       "bytes": 2650504,
       "mime": "image/png"
+    },
+    "7b5d3fed1538d56f1229.png": {
+      "sha256": "7b5d3fed1538d56f122964ae745dc38556814aa7c5d29af019455a338e1bec7a",
+      "bytes": 173238,
+      "mime": "image/png"
+    },
+    "i9600-mini-retail-scene.png": {
+      "sha256": "a779eee04154fdeafd1cdb4af61cc34583418f2150abf0df34f9a7f92ffd5d46",
+      "bytes": 1802929,
+      "mime": "image/png"
+    },
+    "cc5558bfac2538ef2e16.png": {
+      "sha256": "cc5558bfac2538ef2e16c2ba358574e4df8713e73069dbfd2def581d9790e798",
+      "bytes": 252821,
+      "mime": "image/png"
+    },
+    "d81r-apparel-tagging-scene.png": {
+      "sha256": "374c12628c54835699103821c2a6d87944fac1caf0a79f6482ac9b37e3d92ad4",
+      "bytes": 1927023,
+      "mime": "image/png"
+    },
+    "407ff0fc4e7cc36342ed.png": {
+      "sha256": "407ff0fc4e7cc36342ed7ee2d0d651e362baa7c8f04bf28b11398ebb0a342d2e",
+      "bytes": 192592,
+      "mime": "image/png"
+    },
+    "gs2208d-cafe-scene.png": {
+      "sha256": "5002bc09488ca70e88dfef5e8bc4532ccbadbce2dde61cdaed548bb920a0d16c",
+      "bytes": 1935385,
+      "mime": "image/png"
+    },
+    "gs2208d-luckin-demo.mp4": {
+      "sha256": "06f82e1484712760ac4b3a2090c8ba98f0c2cc8d1efb4aa11d8f36511c2c9f98",
+      "bytes": 12359259,
+      "mime": "video/mp4"
+    },
+    "gs2208d-luckin-poster.jpg": {
+      "sha256": "3edc49958bd96f47e660f4e8cb263cc1d253a41122fabc7d7884ba116eb1e906",
+      "bytes": 25853,
+      "mime": "image/jpeg"
     }
-  }
+  },
+  "updated": "2026-11-02"
 }
